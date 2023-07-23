@@ -172,6 +172,12 @@ body * {
   padding-bottom: 50px;
 }
 
+.spinner {
+  text-align: center;
+  font-weight: 700;
+  font-size: 18px;
+}
+
 /* About */
 .about__photo {
   width: 100%;
