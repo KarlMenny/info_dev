@@ -87,7 +87,7 @@ const Messages = () => {
           <Form>
             <Form.Group className="messages__search-field mb-3">
               <Form.Label>
-                {id ? 'Відредагуйте контакт:' : 'Оберіть контакт:'}
+                {id ? 'Відредагуйте контакт:' : 'Оберіть контакт за номером:'}
               </Form.Label>
               <Form.Control
                 value={searchQuery}
